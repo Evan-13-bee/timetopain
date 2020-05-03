@@ -1,7 +1,9 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <img class="gh" src="http://opgg-static.akamaized.net/images/lol/passive/Azir_Passive.png?image=q_auto,w_48&v=1586932751" alt="">
+        <img class="gh" src="http://opgg-static.akamaized.net/images/lol/spell/AzirQWrapper.png?image=q_auto,w_48&v=1586932751" alt="">
+        <img class="gh" src="http://opgg-static.akamaized.net/images/lol/spell/AzirW.png?image=q_auto,w_48&v=1586932751" alt="">
+        <img class="gh" src="http://opgg-static.akamaized.net/images/lol/spell/AzirEWrapper.png?image=q_auto,w_48&v=1586932751" alt="">
   </div>
 </template>
 

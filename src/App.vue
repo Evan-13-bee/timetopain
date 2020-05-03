@@ -1,8 +1,9 @@
 <template>
   <div id="app">
     <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+      <router-link to="/"><img   class="gh" src="http://opgg-static.akamaized.net/images/lol/champion/Azir.png?image=q_auto,w_140&v=1586932751" alt=""></router-link> |
+      <router-link to="/about"><img   class="gh" src="http://opgg-static.akamaized.net/images/lol/champion/Akali.png?image=q_auto,w_140&v=1586932751" alt=""></router-link> |
+      <router-link to="/drug"><img   class="gh" src="http://opgg-static.akamaized.net/images/lol/champion/Teemo.png?image=q_auto,w_140&v=1586932751" alt=""></router-link>
     </div>
     <router-view/>
   </div>
